@@ -4,9 +4,7 @@
 
 ### Unordered List:
 - Item 1
-  - Subitem 2.1
 
-- Item 3
 
 ### Ordered List:
 1. First item
